@@ -67,16 +67,6 @@ mnist-digit-classifier/
 ├── requirements.txt
 └── README.md
 
-📦 Installation
-
-Clone the repository and enter the project folder:
-
-git clone https://github.com/your-username/mnist-digit-classifier.git
-cd mnist-digit-classifier
-
-Install the required packages:
-
-pip install tensorflow opencv-python numpy matplotlib
 
 ▶️ Run the Project
 
