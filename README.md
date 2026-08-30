@@ -77,5 +77,7 @@ The program loops through the testing folders, predicts one image from each digi
 📊 Example Output
 
 Actual: 0 | Predicted: 0
+
 Actual: 1 | Predicted: 1
+
 Actual: 2 | Predicted: 2
